@@ -90,3 +90,37 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+# Dependencies
+node_modules
+
+# Logs and dev output
+logs
+routeTypes
+
+# Temporary caches
+*.tsbuildinfo
+caches
+cache
+
+# Environment variables/secrets
+.env
+.env.development
+.env.production
+.env.test
+
+# Build / Generated output
+build
+dist
+lib
+
+# Temporary/dev locations
+legacy
+temp
+tmp
+
+todo
+todo.txt
+
+# Specific to this project
